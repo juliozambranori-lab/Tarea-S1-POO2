@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\bin\Debug\net10.0-windows\GestionTareasPendientes.exe
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\bin\Debug\net10.0-windows\GestionTareasPendientes.deps.json
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\bin\Debug\net10.0-windows\GestionTareasPendientes.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\bin\Debug\net10.0-windows\GestionTareasPendientes.dll
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\bin\Debug\net10.0-windows\GestionTareasPendientes.pdb
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\obj\Debug\net10.0-windows\GestionTareasPendientes.frmGestionTareas.resources
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\obj\Debug\net10.0-windows\GestionTareasPendientes.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\obj\Debug\net10.0-windows\GestionTareasPendientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\obj\Debug\net10.0-windows\GestionTareasPendientes.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\obj\Debug\net10.0-windows\GestionTareasPendientes.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\obj\Debug\net10.0-windows\GestionTareasPendientes.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\obj\Debug\net10.0-windows\GestionTareasPendientes.dll
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\obj\Debug\net10.0-windows\refint\GestionTareasPendientes.dll
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\obj\Debug\net10.0-windows\GestionTareasPendientes.pdb
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\obj\Debug\net10.0-windows\GestionTareasPendientes.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\obj\Debug\net10.0-windows\ref\GestionTareasPendientes.dll
+C:\Users\HP\OneDrive\Desktop\uniandes\PO 2\GestionTareasPendientes\obj\Debug\net10.0-windows\GestionT.B8F85CDF.Up2Date
